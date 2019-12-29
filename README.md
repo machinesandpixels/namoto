@@ -1,0 +1,1 @@
+# Namoto: A digital cryptocurrency created with Python
